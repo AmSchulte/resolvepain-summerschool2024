@@ -25,13 +25,13 @@ body {
 
 /* Section Styling */
 section {
-    padding: 0 0;
+    padding: 20px 0;
 }
 
 /* Section Titles */
 section h2 {
     color: #00bcd4; /* Cyanish blue for headings */
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 /* Footer Styling */
