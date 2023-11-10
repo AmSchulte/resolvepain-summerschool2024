@@ -23,21 +23,6 @@ body {
     border-bottom: 2px solid #54C6D0; /* Cyanish blue border */
 }
 
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
-}
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 70px;
-}
-
 /* Section Styling */
 section {
     padding: 40px 0;
