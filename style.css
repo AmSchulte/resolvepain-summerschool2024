@@ -7,13 +7,13 @@ body {
 /* Navigation Bar Styling */
 .navbar {
     background-color: #fff; /* White background */
-    border-bottom: 2px solid #00bcd4; /* Cyanish blue border */
+    border-bottom: 2px solid #54C6D0; /* Cyanish blue border */
 }
 .navbar-brand, .nav-link {
     color: #333; /* Dark text */
 }
 .nav-link:hover {
-    color: #ff0000; /* Red color on hover for links */
+    color: #FF1A14; /* Red color on hover for links */
 }
 
 /* Banner Styling */
