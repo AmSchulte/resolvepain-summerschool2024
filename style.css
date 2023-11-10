@@ -20,6 +20,7 @@ body {
 .banner img {
     width: 100%;
     height: auto;
+    border-bottom: 2px solid #54C6D0; /* Cyanish blue border */
 }
 
 /* Section Styling */
@@ -42,7 +43,3 @@ footer {
     margin-top: 40px;
 }
 
-hp  {
-float: right;    
- margin: 0 0 0 15px;
-}
