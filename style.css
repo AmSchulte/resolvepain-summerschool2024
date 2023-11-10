@@ -41,3 +41,8 @@ footer {
     padding: 10px 0;
     margin-top: 40px;
 }
+
+#hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
