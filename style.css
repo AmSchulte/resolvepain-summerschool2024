@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff; /* White background for a clean look */
+    color: #333; /* Dark text for readability */
+}
+
+/* Navigation Bar Styling */
+.navbar {
+    background-color: #fff; /* White background */
+    border-bottom: 2px solid #00bcd4; /* Cyanish blue border */
+}
+.navbar-brand, .nav-link {
+    color: #333; /* Dark text */
+}
+.nav-link:hover {
+    color: #ff0000; /* Red color on hover for links */
+}
+
+/* Banner Styling */
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+/* Section Styling */
+section {
+    padding: 40px 0;
+}
+
+/* Section Titles */
+section h2 {
+    color: #00bcd4; /* Cyanish blue for headings */
+    margin-bottom: 20px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #f8f9fa; /* Light grey background */
+    color: #333; /* Dark text */
+    border-top: 2px solid #00bcd4; /* Cyanish blue border */
+    padding: 10px 0;
+    margin-top: 40px;
+}
