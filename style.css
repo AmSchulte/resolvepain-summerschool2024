@@ -15,9 +15,6 @@ body {
 .nav-link:hover {
     color: #FF1A14; /* Red color on hover for links */
 }
-.mt-5 {
-    margin-top: 0;
-}
 
 /* Banner Styling */
 .banner img {
@@ -28,6 +25,7 @@ body {
 
 /* Section Styling */
 section {
+    margin-top: 0;
     padding: 40px 0;
 }
 
