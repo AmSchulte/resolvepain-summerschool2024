@@ -50,7 +50,6 @@ footer {
 .img {
     float: left;
     width:200px;
-    height:200px;
 }
 .div2 {
     float: left; // without float here, if "Line 1" and "Line 2" is long -> text will display both at right and bottom the image
